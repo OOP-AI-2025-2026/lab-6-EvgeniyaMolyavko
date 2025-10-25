@@ -27,7 +27,7 @@ public class Student {
         this.lastName = lastName;
     }
 
-    public double getAvgMark() {
+    public Double getAvgMark() {
         return avgMark;
     }
 
